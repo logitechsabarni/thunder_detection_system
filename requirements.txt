@@ -4,3 +4,4 @@ scipy>=1.11.0
 plotly>=5.18.0
 pandas>=2.0.0
 reportlab>=4.0.0
+statsmodels
